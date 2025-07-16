@@ -1,0 +1,36 @@
+/* Custom Swagger UI styles with new color palette */
+.swagger-ui .topbar {
+    background: #1a237e; /* Bleu foncé */
+    color: #fff;
+}
+.swagger-ui .info {
+    background: #e3f2fd; /* Bleu très clair */
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    color: #0d47a1;
+}
+.swagger-ui .scheme-container {
+    background: #c8e6c9; /* Vert très clair */
+}
+.swagger-ui .opblock {
+    border-radius: 8px;
+    margin-bottom: 16px;
+    background: #fffde7; /* Jaune très clair */
+    border: 1px solid #ffe082;
+}
+.swagger-ui .btn {
+    background: #43a047; /* Vert */
+    color: #fff;
+    border-radius: 4px;
+}
+.swagger-ui .btn:hover {
+    background: #388e3c;
+}
+.swagger-ui .responses-wrapper {
+    background: #fce4ec; /* Rose très clair */
+}
+.swagger-ui .response {
+    border: 1px solid #f06292;
+}
+/* Add more custom styles as needed */
