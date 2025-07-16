@@ -9,6 +9,5 @@ namespace WebApiM1Sopra2025_26.Models
         }
 
         public DbSet<TodoItem> TodoItems { get; set; }
-        public DbSet<User> Users { get; set; }
     }
 }
